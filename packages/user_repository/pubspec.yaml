@@ -1,5 +1,6 @@
-name: pizaa_app
-description: "A new Flutter project."
+name: user_repository
+
+description: "Repo that handles "
 
 publish_to: 'none' 
 
@@ -13,6 +14,8 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.8
+  firebase_auth: ^4.16.0
+  cloud_firestore: ^4.9.2
 
 dev_dependencies:
   flutter_test:
