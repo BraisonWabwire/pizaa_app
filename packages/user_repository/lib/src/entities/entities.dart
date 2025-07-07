@@ -1,1 +1,1 @@
-export '';
+export 'user_entity.dart';

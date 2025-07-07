@@ -22,7 +22,7 @@ class MyUser {
     hasActiveCart: false,
   );
 
-  MyUserEntity toEntiry() {
+  MyUserEntity toEntity() {
     return MyUserEntity(
       userId: userId,
       email: email,
